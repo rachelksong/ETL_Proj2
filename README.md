@@ -10,7 +10,7 @@ Our original data source originated from Kaggle. We then formatted it through CS
 # Transform: 
 We cleaned up the data by using Pandas to read in the CSV files. We then transformed the data by selecting specific column names to print into a dataframe.
 
-# Create Database and Load Database: 
+# Create Database and Load Dataframes into Database: 
 Within the cells of the CSV files, the use of apostrophes made SQL Server read it as a special character and wouldn't initially have us import the CSV files into our tables. Both 'athlete_events' and 'noc_regions' were chosen from our database 'olympics_db.'
 
 # Specific questions we were looking to find answers to were: 
