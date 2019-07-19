@@ -2,6 +2,7 @@
 
 Team 8: Krystal Briggs and Rachel Song
 
+# Purpose:
 We conducted an exploratory analysis of 120 years of the Olympics. We looked at whether the change of sports (inclusion/exclusion) decreased or increased the participation of female participants. 
 
 # Extract: 
@@ -12,6 +13,9 @@ We cleaned up the data by using Pandas to read in the CSV files. We then transfo
 
 # Create Database and Load Dataframes into Database: 
 Within the cells of the CSV files, the use of apostrophes made SQL Server read it as a special character and wouldn't initially have us import the CSV files into our tables. Both 'athlete_events' and 'noc_regions' were chosen from our database 'olympics_db.'
+
+ETL Anaysis can be found in:  olympic_ETL.ipynb
+Graphs and comparison analysis can be found in: Olympics_ETL_Analysis.ipynb
 
 # Specific questions we were looking to find answers to were: 
 
@@ -32,3 +36,5 @@ Through our data analysis we discovered that:
 4) The highest rank of medals won for women participants in the Olympics is Bronze, whereas for men it's been Gold. 
 
 5) There was a a commonality found between male and female Olympic participants. Both sexes predominately participate in the summer Olympics rather than Winter. A major reason for this could be because the summer Olympics are more popular than the winter, and have more countries competing in the summer over winter. Winter is only popular for participants where winter sports are valued and practiced. 
+
+
