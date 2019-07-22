@@ -3,7 +3,7 @@
 Team 8: Krystal Briggs and Rachel Song
 
 # Purpose:
-We conducted an exploratory analysis of 120 years of the Olympics. We looked at whether the change of sports (inclusion/exclusion) has decreased or increased the participation of female participants. 
+We conducted an exploratory analysis of 120 years of the Olympics. We looked at whether the change of sports (inclusion/exclusion) has decreased or increased the participation of female participants, and what this could mean for future coverage of female athletes in sports. 
 
 # Extract: 
 Our original data source originated from Kaggle (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). We then formatted it through CSV and extracted the data using pgAgmin4/TablePlus.
