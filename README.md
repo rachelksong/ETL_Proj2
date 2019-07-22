@@ -38,7 +38,7 @@ Through our data analysis we discovered that:
 5) There was a a commonality found between male and female Olympic participants. Both sexes predominately participate in the summer Olympics rather than Winter. A major reason for this could be because the summer Olympics are more popular than the winter, and have more countries competing in the summer over winter. Winter is only popular for participants where winter sports are valued and practiced. 
 
 ## Results:
-Through our results we have determined that even though the inclusion of female athletes in the Olympics has increased female participation, female atheletes still lack in representation in terms of high medal ranking (The highest medal ranking female athletes have is bronze, whereas men have gold), and masculine sports (wrestling), compared to male athletes.  
+Through our results we have determined that even though the inclusion of female athletes in the Olympics has increased female participation, female atheletes still lack in representation in terms of high medal ranking (The highest medal ranking female athletes have is bronze, whereas men have gold), and masculine sports (wrestling), compared to male athletes. Thus, even though there is more equality in numbers for participation in Olympic games, there is still a lack of representation in the games themselves between the sexes which could be due to poor media represenation of female athletes in general. However, further research would be needed to be conducted in order to determine this hypothesis.  
 
 ## Future Research: 
 
