@@ -1,5 +1,5 @@
 # ETL_Proj2: 
-# Breaking the Iceberg: Exploring Female Athlete Particiation in the Olympics Over 120 Years. 
+# Breaking the Iceberg: Exploring Female Athlete Participation in the Olympics Over 120 Years. 
 
 Team 8: Krystal Briggs and Rachel Song
 
