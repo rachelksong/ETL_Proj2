@@ -13,7 +13,7 @@ Our original data source originated from Kaggle (https://www.kaggle.com/heesoo37
 We cleaned up the data by using Pandas to read in the CSV files. We then transformed the data by selecting specific column names to print into a dataframe, specifically "F" for female athletes and "M" for males athletes, as well as "Year" in order to make the comparison analysis between female and male Olympic athletes. 
 
 # Create Database and Load Dataframes into Database: 
-Within the cells of the CSV files, the use of apostrophes made SQL Server read it as a special character and wouldn't initially have us import the CSV files into our tables. Both 'athlete_events' and 'noc_regions' were chosen from our database 'olympics_db.'
+Within the cells of the CSV files, the use of apostrophes made SQL Server read it as a special character and wouldn't initially have us import the CSV files into our tables. Two tables for 'athlete_events' and 'noc_regions' were chosen from our database 'olympics_db' in order to determine female Olympic athlete representation in all sport events and in all regions. The final production database was relational. 
 
 ETL Anaysis can be found in:  olympic_ETL.ipynb.
 Graphs and comparison analysis can be found in: Olympics_ETL_Analysis.ipynb.
